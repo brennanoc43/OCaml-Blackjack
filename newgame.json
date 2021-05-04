@@ -1,0 +1,19 @@
+{
+  "players": [
+    {
+      "name": "Brennan",
+      "balance": 25,
+      "diff": "Hard"
+    },
+    {
+      "name": "Abby",
+      "balance": 25,
+      "diff": "Easy"
+    },
+    {
+      "name": "Austin",
+      "balance": 100,
+      "diff": "User"
+    }
+  ]
+}
